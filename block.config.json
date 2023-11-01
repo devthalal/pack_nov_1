@@ -1,0 +1,21 @@
+{
+  "name": "pack_nov_1",
+  "type": "package",
+  "blockId": "rHMgZtt-blZ_XZZK8NzF6",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_pack_nov_1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "pack_n_1_fn_1": {
+      "directory": "pack_n_1_fn_1"
+    }
+  }
+}
